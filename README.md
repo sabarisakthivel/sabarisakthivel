@@ -21,7 +21,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🚀 About Me
+##  About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
 
@@ -33,7 +33,7 @@ I build and ship production web platforms end-to-end. Currently at **Goldenaxe T
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🛠️ Live Products
+##  Live Products
 
 <table>
   <tr>
@@ -50,11 +50,11 @@ I build and ship production web platforms end-to-end. Currently at **Goldenaxe T
   </tr>
 </table>
 
-> 🔒 *(Source is private — client work. The public repos below show my Java/Spring Boot side and extracted patterns from the above.)*
+>  *(Source is private — client work. The public repos below show my Java/Spring Boot side and extracted patterns from the above.)*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## ⚡ Stack
+##  Stack
 
 **Next.js, React, TypeScript, Supabase, PostgreSQL, Java, Spring Boot, Hibernate, Tailwind, Vercel**
 
@@ -66,24 +66,16 @@ I build and ship production web platforms end-to-end. Currently at **Goldenaxe T
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabarisakthivel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarisakthivel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" height="165" alt="Top languages" />
-</p>
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarisakthivel&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabarisakthivel&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true" width="100%" alt="Contribution graph" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 📫 Contact
+##  Contact
 
 <p align="center">
   <a href="mailto:sabaris.officialwork@gmail.com">
@@ -93,10 +85,6 @@ I build and ship production web platforms end-to-end. Currently at **Goldenaxe T
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabarisakthivel&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <!-- Animated footer -->
