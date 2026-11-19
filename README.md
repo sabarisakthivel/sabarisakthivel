@@ -82,7 +82,7 @@ I build and ship production web platforms end-to-end. I'm the sole developer on 
     <img src="https://img.shields.io/badge/Gmail-sabaris.officialwork%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/sabarisakthivel">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
