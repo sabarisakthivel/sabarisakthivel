@@ -27,7 +27,7 @@
 
 **Full Stack Developer — Next.js · TypeScript · PostgreSQL/Supabase · Java/Spring Boot**
 
-I build and ship production web platforms end-to-end. Currently at **Goldenaxe Technology Solutions**, where I'm the sole developer on two live products:
+I build and ship production web platforms end-to-end. I'm the sole developer on two live products:
 
 <br clear="right"/>
 
